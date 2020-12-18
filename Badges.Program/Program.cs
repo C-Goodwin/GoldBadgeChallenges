@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cafe.Progam
+namespace Badges.Program
 {
     class Program
     {
